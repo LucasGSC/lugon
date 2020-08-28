@@ -1,6 +1,6 @@
 ---
 created: 2020-08-24T11:46:31+01:00
-modified: 2020-08-28T17:16:11+01:00
+modified: 2020-08-28T17:22:33+01:00
 ---
 
 # Index
@@ -42,4 +42,4 @@ Music
 - youtube
 - archive.org
 
-[Other things|other.md]
+[Other things](other.md)
